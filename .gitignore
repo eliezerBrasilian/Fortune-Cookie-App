@@ -1,5 +1,6 @@
 *.iml
 key
+app/release
 .gradle
 /local.properties
 /.idea/caches
